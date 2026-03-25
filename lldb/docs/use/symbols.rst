@@ -1,4 +1,4 @@
-Symbols on macOS
+samirSymbols on macOS
 ================
 
 On macOS, debug symbols are often in stand alone bundles called **dSYM** files.
